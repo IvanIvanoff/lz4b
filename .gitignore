@@ -4,3 +4,4 @@ c_src/v*
 _build/
 .eunit/
 .rebar/
+.tool-versions
